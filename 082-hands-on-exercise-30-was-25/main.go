@@ -23,7 +23,7 @@ func main() {
 		case 4:
 			fmt.Println("x = 4")
 		default:
-			fmt.Println("x = ", x)
+			fmt.Println("ERR: x = ", x)
 		}
 	}
 }
